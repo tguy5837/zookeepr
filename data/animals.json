@@ -108,6 +108,17 @@
         "anxious"
       ],
       "id": "10"
+    },
+    {
+      "name": "Bubbles",
+      "species": "spider monkey",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
